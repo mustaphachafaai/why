@@ -9,20 +9,20 @@ client.user.setPresence({
   status: 'dnd',
   game: { 
      type: 0,
-     name: 'ŤĤĔ ČĤĨŃŴĨ ',
-     details: `ŤĤĔ ČĤĨŃŴĨ `,
+     name: 'ŤĤĔ ČĤĨŃŴĨ',
+     details: `ŤĤĔ ČĤĨŃŴĨ`,
      url: 'http://twitch.tv/M7md_Salih',
-     state: `ŤĤĔ ČĤĨŃŴĨ `,
+     state: `ŤĤĔ ČĤĨŃŴĨ`,
     application_id: '377479790195769345',
      assets: {
         small_image: `377480550207717376`,
-        small_text: 'ŤĤĔ ČĤĨŃŴĨ ',
+        small_text: 'ŤĤĔ ČĤĨŃŴĨ',
         large_image: `377480353259978752`,
-        large_text: `ŤĤĔ ČĤĨŃŴĨ ` }
+        large_text: `ŤĤĔ ČĤĨŃŴĨ` }
 
   }
     });
 });
 اقولها
 
-client.login(process.env.BOT_TOKEN);// لا تغير فيها شيء
+client.login("NTQxMzg2MjM1ODUyMzU3NjM0.D17YPg.JjsIHhL5enUDF2zhhROOu1_hM58");
