@@ -9,16 +9,16 @@ client.user.setPresence({
   status: 'dnd',
   game: { 
      type: 0,
-     name: 'ŤĤĔ ČĤĨŃŴĨ Ď'Ź฿Ĩ ♥',
-     details: `ŤĤĔ ČĤĨŃŴĨ Ď'Ź฿Ĩ ♥`,
+     name: 'ŤĤĔ ČĤĨŃŴĨ ',
+     details: `ŤĤĔ ČĤĨŃŴĨ `,
      url: 'http://twitch.tv/M7md_Salih',
-     state: `ŤĤĔ ČĤĨŃŴĨ Ď'Ź฿Ĩ ♥`,
+     state: `ŤĤĔ ČĤĨŃŴĨ `,
     application_id: '377479790195769345',
      assets: {
         small_image: `377480550207717376`,
-        small_text: 'ŤĤĔ ČĤĨŃŴĨ Ď'Ź฿Ĩ ♥',
+        small_text: 'ŤĤĔ ČĤĨŃŴĨ ',
         large_image: `377480353259978752`,
-        large_text: `ŤĤĔ ČĤĨŃŴĨ Ď'Ź฿Ĩ ♥` }
+        large_text: `ŤĤĔ ČĤĨŃŴĨ ` }
 
   }
     });
